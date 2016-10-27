@@ -14,6 +14,7 @@ $lang['config_warning'] = "Update config file carefully";
 $lang['login'] = "Login";
 $lang['processing'] = "Processing...";
 $lang['install_now'] = "Install Now";
+$lang['instructor'] = "Instructor";
 $lang['email_address'] = "Email Address";
 $lang['password'] = "Password";
 $lang['invalid_login'] = "Email or password invalid or email address not verified";

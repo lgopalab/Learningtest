@@ -52,6 +52,7 @@ class User extends CI_Controller {
 			
 		 $data['title']=$this->lang->line('add_new').' '.$this->lang->line('user');
 		// fetching group list
+        $data['group_list']=$this->user_model->group_list();
 		 $this->load->view('header',$data);
 		$this->load->view('new_user',$data);
 		$this->load->view('footer',$data);
@@ -66,7 +67,7 @@ class User extends CI_Controller {
 				exit($this->lang->line('permission_denied'));
 			}
 		$this->load->library('form_validation');
-		$this->form_validation->set_rules('email', 'Email', 'required|is_unique[_users.email]');
+		$this->form_validation->set_rules('email', 'Email', 'required|is_unique[users.email]');
         $this->form_validation->set_rules('password', 'Password', 'required');
           if ($this->form_validation->run() == FALSE)
                 {

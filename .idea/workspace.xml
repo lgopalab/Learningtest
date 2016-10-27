@@ -2,127 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11e1622f-8d4b-4e7c-9fa7-7c6b859f4c6f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/sample.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/test2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config_backup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/migration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/sq_config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Dashboard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Payment_gateway.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Payment_gateway_2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Qbank.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Quiz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/renamed_Install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/SpreadsheetReader_CSV.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/SpreadsheetReader_ODS.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/SpreadsheetReader_XLS.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/SpreadsheetReader_XLSX.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/php-excel-reader/excel_reader2_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/spreadsheetreader_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/xlsimport/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/hooks/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/basic_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/dompdf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/dompdf_config.custom.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/dompdf_config.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/absolute_positioner.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/abstract_renderer.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/attribute_translator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/autoload.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/block_frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/block_frame_reflower.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/block_positioner.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/block_renderer.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/cached_pdf_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/canvas.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/canvas_factory.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/cellmap.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/cpdf_adapter.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/css_color.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/dompdf.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/dompdf_exception.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/dompdf_image_exception.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/file.skel" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/fixed_positioner.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/font_metrics.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/frame.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/frame_factory.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/frame_reflower.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/frame_tree.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/functions.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/gd_adapter.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/image_cache.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/image_frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/image_frame_reflower.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/image_renderer.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/inline_frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/inline_frame_reflower.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/inline_positioner.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/inline_renderer.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/javascript_embedder.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/line_box.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/list_bullet_frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/list_bullet_frame_reflower.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/list_bullet_image_frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/list_bullet_positioner.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/list_bullet_renderer.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/null_frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/null_frame_reflower.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/null_positioner.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/page_cache.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/page_frame_decorator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/page_frame_reflower.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/pdflib_adapter.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/php_evaluator.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/positioner.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/renderer.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/style.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/stylesheet.cls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/dompdf/include/table_cell_frame_decorator.cls.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/User.php" afterPath="$PROJECT_DIR$/application/controllers/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/english/basic_lang.php" afterPath="$PROJECT_DIR$/application/language/english/basic_lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/new_user.php" afterPath="$PROJECT_DIR$/application/views/new_user.php" />
     </list>
     <ignored path="test2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,38 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Quiz_model.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Quiz_model.php">
+      <file leaf-file-name="new_user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/new_user.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5720">
-              <caret line="260" column="20" selection-start-line="260" selection-start-column="20" selection-end-line="260" selection-end-column="20" />
-              <folding>
-                <marker date="1475733744188" expanded="true" signature="4934:5089" ph="select * fro... savsoft_qbank" />
-                <marker date="1475733744188" expanded="true" signature="5213:5289" ph="select * fro... savsoft_options" />
-                <marker date="1475733744188" expanded="true" signature="9473:9581" ph="select * fro... savsoft_qbank" />
-                <marker date="1475733744188" expanded="true" signature="10839:10959" ph="select * fro... savsoft_qbank" />
-                <marker date="1475733744188" expanded="true" signature="12314:12377" ph="select * fro... savsoft_result" />
-                <marker date="1475733744188" expanded="true" signature="12622:12701" ph="select * fro... savsoft_result" />
-                <marker date="1475733744188" expanded="true" signature="12819:12866" ph="select * fro... savsoft_answers" />
-                <marker date="1475733744188" expanded="true" signature="13023:13102" ph="select * fro... savsoft_result" />
-                <marker date="1475733744188" expanded="true" signature="14746:14786" ph="update savso... " />
-                <marker date="1475733744188" expanded="true" signature="15040:15119" ph="select * fro... savsoft_result" />
-                <marker date="1475733744188" expanded="true" signature="17022:17097" ph="update savso... " />
-                <marker date="1475733744188" expanded="true" signature="17296:17429" ph="select savso... " />
-                <marker date="1475733744188" expanded="true" signature="20463:20542" ph="select * fro... savsoft_result" />
-                <marker date="1475733744188" expanded="true" signature="21204:21242" ph="select * fro... savsoft_options" />
-                <marker date="1475733744188" expanded="true" signature="22636:22674" ph="select * fro... savsoft_options" />
-                <marker date="1475733744188" expanded="true" signature="25085:25123" ph="select * fro... savsoft_options" />
-              </folding>
+            <state relative-caret-position="748">
+              <caret line="66" column="107" selection-start-line="66" selection-start-column="107" selection-end-line="66" selection-end-column="107" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_question_into_quiz.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/views/add_question_into_quiz.php">
+      <file leaf-file-name="basic_lang.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/language/english/basic_lang.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="352">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="group_list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/group_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -183,7 +59,7 @@
       <file leaf-file-name="Quiz.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/Quiz.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2684">
+            <state relative-caret-position="22">
               <caret line="122" column="42" selection-start-line="122" selection-start-column="42" selection-end-line="122" selection-end-column="42" />
               <folding>
                 <marker date="1475734278663" expanded="true" signature="2764:2815" ph="select * fro... qbank" />
@@ -192,11 +68,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit_quiz.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/edit_quiz.php">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2662">
-              <caret line="121" column="50" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="50" />
+            <state relative-caret-position="207">
+              <caret line="168" column="46" selection-start-line="168" selection-start-column="46" selection-end-line="168" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/User_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="74" column="38" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sq_config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/sq_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -224,8 +140,6 @@
         <option value="$PROJECT_DIR$/application/controllers/home.php" />
         <option value="$PROJECT_DIR$/application/views/login.php" />
         <option value="$PROJECT_DIR$/application/views/register.php" />
-        <option value="$PROJECT_DIR$/application/views/new_user.php" />
-        <option value="$PROJECT_DIR$/application/controllers/User.php" />
         <option value="$PROJECT_DIR$/application/views/edit_user.php" />
         <option value="$PROJECT_DIR$/application/views/result_list.php" />
         <option value="$PROJECT_DIR$/application/views/view_result.php" />
@@ -247,6 +161,9 @@
         <option value="$PROJECT_DIR$/application/controllers/Quiz.php" />
         <option value="$PROJECT_DIR$/application/models/Result_model.php" />
         <option value="$PROJECT_DIR$/application/views/add_question_into_quiz.php" />
+        <option value="$PROJECT_DIR$/application/controllers/User.php" />
+        <option value="$PROJECT_DIR$/application/views/new_user.php" />
+        <option value="$PROJECT_DIR$/application/language/english/basic_lang.php" />
       </list>
     </option>
   </component>
@@ -307,6 +224,132 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="english" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,7 +440,7 @@
       <workItem from="1475745330112" duration="21000" />
       <workItem from="1477549759879" duration="199000" />
       <workItem from="1477549981028" duration="262000" />
-      <workItem from="1477551145534" duration="113000" />
+      <workItem from="1477551145534" duration="2376000" />
     </task>
     <task id="LOCAL-00001" summary="Adding New files!">
       <created>1475743042147</created>
@@ -417,7 +460,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59473000" />
+    <option name="totallyTimeSpent" value="61736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -463,81 +506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/controllers/Quiz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6490">
-          <caret line="295" column="0" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Quiz_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <marker date="1475733744188" expanded="true" signature="4934:5089" ph="select * fro... savsoft_qbank" />
-            <marker date="1475733744188" expanded="true" signature="5213:5289" ph="select * fro... savsoft_options" />
-            <marker date="1475733744188" expanded="true" signature="9473:9581" ph="select * fro... savsoft_qbank" />
-            <marker date="1475733744188" expanded="true" signature="10839:10959" ph="select * fro... savsoft_qbank" />
-            <marker date="1475733744188" expanded="true" signature="12314:12377" ph="select * fro... savsoft_result" />
-            <marker date="1475733744188" expanded="true" signature="12622:12701" ph="select * fro... savsoft_result" />
-            <marker date="1475733744188" expanded="true" signature="12819:12866" ph="select * fro... savsoft_answers" />
-            <marker date="1475733744188" expanded="true" signature="13023:13102" ph="select * fro... savsoft_result" />
-            <marker date="1475733744188" expanded="true" signature="14746:14786" ph="update savso... " />
-            <marker date="1475733744188" expanded="true" signature="15040:15119" ph="select * fro... savsoft_result" />
-            <marker date="1475733744188" expanded="true" signature="17022:17097" ph="update savso... " />
-            <marker date="1475733744188" expanded="true" signature="17296:17429" ph="select savso... " />
-            <marker date="1475733744188" expanded="true" signature="20463:20542" ph="select * fro... savsoft_result" />
-            <marker date="1475733744188" expanded="true" signature="21204:21242" ph="select * fro... savsoft_options" />
-            <marker date="1475733744188" expanded="true" signature="22636:22674" ph="select * fro... savsoft_options" />
-            <marker date="1475733744188" expanded="true" signature="25085:25123" ph="select * fro... savsoft_options" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/new_quiz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2178">
-          <caret line="99" column="55" selection-start-line="99" selection-start-column="55" selection-end-line="99" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/quiz_detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/quiz_attempt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9460">
-          <caret line="430" column="6" selection-start-line="430" selection-start-column="6" selection-end-line="430" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2750">
-          <caret line="125" column="31" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/myaccount.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/edit_quiz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="80" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/new_question_1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -620,13 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/new_user.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -723,13 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/User_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Dashboard.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -744,20 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Payment_gateway.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="71" column="42" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Payment_gateway_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="46" column="34" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Qbank.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -769,13 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-38">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -829,16 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Quiz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2684">
-          <caret line="122" column="42" selection-start-line="122" selection-start-column="42" selection-end-line="122" selection-end-column="42" />
-          <folding>
-            <marker date="1475734278663" expanded="true" signature="2764:2815" ph="select * fro... qbank" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Quiz_model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5720">
@@ -866,8 +789,122 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/add_question_into_quiz.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="110">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Quiz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="122" column="42" selection-start-line="122" selection-start-column="42" selection-end-line="122" selection-end-column="42" />
+          <folding>
+            <marker date="1475734278663" expanded="true" signature="2764:2815" ph="select * fro... qbank" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8382">
+          <caret line="440" column="21" selection-start-line="440" selection-start-column="13" selection-end-line="440" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/sq_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/User_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="74" column="38" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/new_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="66" column="107" selection-start-line="66" selection-start-column="107" selection-end-line="66" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Payment_gateway_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Payment_gateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="42" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/english/basic_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/group_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="168" column="46" selection-start-line="168" selection-start-column="46" selection-end-line="168" selection-end-column="46" />
           <folding />
         </state>
       </provider>
