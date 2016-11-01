@@ -45,7 +45,7 @@
                     <div class="col-md-4 portfolio-item <?php echo $course['stream']; ?>">
                         <h2><?php echo $course['name']; ?></h2>
                         <p><?php echo $course['short_description']; ?></p>
-                        <a class="btn btn-default" href="generalcourse/<?php echo $course['stream']; ?>"/"<?php echo $course['name']; ?>">More Info</a>
+                        <a class="btn btn-default" href="home/viewcourse/<?php echo $course['stream']."/"; echo $course['name']; ?>">More Info</a>
                     </div>
 
                 <?php

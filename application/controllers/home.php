@@ -30,7 +30,7 @@ class Home extends CI_Controller {
 	 
 	 public function index()
      {
-         $courses=$this->db->get('general_courses');
+         $courses=$this->db->get('courses');
          $streams=$this->db->get('streams');
 
          $data['streams']=$streams->result_array();
@@ -44,8 +44,8 @@ class Home extends CI_Controller {
 	 public function viewstream($stream)
      {
          $this->db->start_cache();
-         $this->db->where('general_courses.stream',$stream);
-         $courses = $this->db->get('general_courses');
+         $this->db->where('courses.stream',$stream);
+         $courses = $this->db->get('courses');
          $this->db->stop_cache();
 
          $this->db->start_cache();
@@ -65,9 +65,9 @@ class Home extends CI_Controller {
     public function viewcourse($stream,$name)
     {
         $this->db->start_cache();
-        $this->db->where('general_courses.stream',$stream);
-        $this->db->where('general_courses.name',$name);
-        $course = $this->db->get('general_courses');
+        $this->db->where('courses.stream',$stream);
+        $this->db->where('courses.name',$name);
+        $course = $this->db->get('courses');
         $course = $course->result_array();
         $this->db->stop_cache();
 
@@ -125,8 +125,8 @@ class Home extends CI_Controller {
         $content = preg_replace($patterns, $replace, $content);
 
         $this->db->start_cache();
-        $this->db->where('general_courses.name',$name);
-        $namecheck = $this->db->get('general_courses');
+        $this->db->where('courses.name',$name);
+        $namecheck = $this->db->get('courses');
         $namecheckarray = $namecheck->result_array();
         $this->db->stop_cache();
 
@@ -151,7 +151,7 @@ class Home extends CI_Controller {
             );
 
             $this->db->flush_cache();
-            $this->db->insert('general_courses',$data);
+            $this->db->insert('courses',$data);
             return $this->output->set_content_type('application/json')->set_status_header(500)->set_output(json_encode($this));
 
             $course_id = $this->db->insert_id();

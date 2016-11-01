@@ -417,7 +417,7 @@ Class Quiz_model extends CI_Model
             $photoname=$this->session->userdata('photoname');
             $userdata['photo']=$photoname;
         }
-        $this->db->insert('savsoftresult',$userdata);
+        $this->db->insert('result',$userdata);
         $rid=$this->db->insert_id();
         return $rid;
     }

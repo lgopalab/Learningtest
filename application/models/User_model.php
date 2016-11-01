@@ -343,11 +343,13 @@ Class User_model extends CI_Model
 
 
     function insert_group(){
+        $logged_in=$this->session->userdata('logged_in');
 
         $userdata=array(
             'group_name'=>$this->input->post('group_name'),
             'price'=>$this->input->post('price'),
             'valid_for_days'=>$this->input->post('valid_for_days'),
+            'created_by'=>$logged_in['uid'],
         );
 
         if($this->db->insert('group',$userdata)){

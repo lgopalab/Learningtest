@@ -76,7 +76,7 @@ if($this->config->item('tinymce')){
 		}
 	}
 ?>
-<div class="navbar navbar-inverse navbar-fixed-bottom">
+<div class="navbar navbar-inverse">
         <div class="container">
             <p class="navbar-text pull-left">© 2016 - Site Built By KMG.</p>
             <a href="http://youtu.be/zJahlKPCL9g" class="navbar-btn btn-danger btn">

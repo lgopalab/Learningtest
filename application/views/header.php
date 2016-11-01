@@ -11,7 +11,8 @@
 	
 	<!-- custom css -->
 	<link href="<?php echo base_url('css/style.css');?>" rel="stylesheet">
-	
+	<link href="<?php echo base_url('css/small-business.css');?>" rel="stylesheet">
+
 	<script>
 	
 	var base_url="<?php echo base_url();?>";
@@ -47,7 +48,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-            <a class="navbar-brand" href="<?php echo site_url('login'); ?>"><img src="http://www.beepy.co.uk/wp-content/uploads/logo-samsung-150x50.png" alt=""></a>
+            <a class="navbar-brand" href="<?php echo site_url('login'); ?>"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKVxhBwbZmTocwoLnUEK4t2sQTQRB9wa-FCM0Vpsq5yfwI9AAJhQ" alt=""></a>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
